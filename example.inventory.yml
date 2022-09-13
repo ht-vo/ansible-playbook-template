@@ -1,0 +1,7 @@
+---
+all:
+  children:
+    raspberrypi:
+      hosts:
+        node1: {}
+
